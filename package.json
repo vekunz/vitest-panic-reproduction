@@ -1,0 +1,11 @@
+{
+  "name": "vitest-panic",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "jsdom": "22.1.0",
+    "module-from-string": "3.3.0",
+    "vitest": "0.34.5"
+  }
+}
